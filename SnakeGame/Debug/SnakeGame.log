@@ -1,0 +1,8 @@
+﻿  Source.cpp
+e:\hcmus-it\monhoc\ktlt_18ck1\snakegame\snakegame\source.cpp(11): warning C4005: '_CRT_SECURE_NO_DEPRECATE': macro redefinition
+  e:\hcmus-it\monhoc\ktlt_18ck1\snakegame\snakegame\source.cpp: note: see previous definition of '_CRT_SECURE_NO_DEPRECATE'
+e:\hcmus-it\monhoc\ktlt_18ck1\snakegame\snakegame\source.cpp(75): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\hcmus-it\monhoc\ktlt_18ck1\snakegame\snakegame\source.cpp(215): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\hcmus-it\monhoc\ktlt_18ck1\snakegame\snakegame\source.cpp(653): warning C4326: return type of 'main' should be 'int' instead of 'void'
+e:\hcmus-it\monhoc\ktlt_18ck1\snakegame\snakegame\source.cpp(70): warning C4715: 'IsValid': not all control paths return a value
+  SnakeGame.vcxproj -> E:\HCMUS-IT\MonHoc\KTLT_18ck1\SnakeGame\Debug\SnakeGame.exe
